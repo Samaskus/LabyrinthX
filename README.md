@@ -1,0 +1,2 @@
+# LabyrinthX
+Begin van alles
